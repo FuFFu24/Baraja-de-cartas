@@ -1,0 +1,130 @@
+* {
+  margin: 4%; 
+}
+
+body {
+  background-color: #118257;
+}
+
+.A {
+  width: 240px;
+  height: 320px;
+  background-color: rgb(250, 250, 250);
+  border: 1px solid rgb(200, 200, 200);
+  color: red;
+  position: absolute;
+  transform: rotate(340deg);
+  left: 10%;
+  border-radius: 10px;
+}
+
+.K {
+  width: 240px;
+  height: 320px;
+  background-color: rgb(250, 250, 250);
+  border: 1px solid rgb(200, 200, 200);
+  color: black;
+  position: absolute;
+  transform: rotate(350deg);
+  left: 12%;
+  top: 13%;
+  border-radius: 10px;
+}
+
+.Q {
+  width: 240px;
+  height: 320px;
+  background-color: rgb(250, 250, 250);
+  border: 1px solid rgb(200, 200, 200);
+  color: red;
+  position: absolute;
+  transform: rotate(360deg);
+  left: 14%;
+  top: 15%;
+  border-radius: 10px;
+}
+
+.J {
+  width: 240px;
+  height: 320px;
+  background-color: rgb(250, 250, 250);
+  border: 1px solid rgb(200, 200, 200);
+  color: black;
+  position: absolute;
+  transform: rotate(10deg);
+  left: 16%;
+  top: 17.5%;
+  border-radius: 10px;
+}
+
+.diez {
+  width: 240px;
+  height: 320px;
+  background-color: rgb(250, 250, 250);
+  border: 1px solid rgb(200, 200, 200);
+  color: red;
+  position: absolute;
+  transform: rotate(20deg);
+  left: 18%;
+  top: 21%;
+  border-radius: 10px;
+}
+
+.pri {
+  width: 40px;
+  text-align: center;
+  font-size: 30px;
+}
+
+.seg {
+  width: 40px;
+  text-align: center;
+  font-size: 30px;
+  position: absolute;
+  top: 0;
+  transform: rotate(180deg);
+  margin-top: 98%;
+  margin-left: 80%;
+}
+
+.izq {
+  width: 40px;
+  text-align: center;
+  font-size: 60px;
+  width: 40px;
+  height: 225px;
+  margin: 20%;
+  position: absolute;
+  bottom: 36px;
+}
+
+.medio {
+  width: 40px;
+  text-align: center;
+  font-size: 60px;
+  width: 40px;
+  height: 100px;
+  margin: 40%;
+  position: absolute;
+  bottom: 72px;
+}
+
+.der {
+  width: 40px;
+  text-align: center;
+  font-size: 60px;
+  width: 40px;
+  height: 225px;
+  margin-left: 60%;
+  position: absolute;
+  top: 2px;
+}
+
+.borde {
+  border: 1px solid black;
+  width: 150px;
+  height: 230px;
+  margin: 18%;
+  position: absolute;
+  top: 0;
+}
