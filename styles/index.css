@@ -81,10 +81,9 @@ body {
   text-align: center;
   font-size: 30px;
   position: absolute;
-  top: 0;
   transform: rotate(180deg);
-  margin-top: 98%;
-  margin-left: 80%;
+  bottom: 0;
+  right: 0;
 }
 
 .izq {
@@ -127,4 +126,9 @@ body {
   margin: 18%;
   position: absolute;
   top: 0;
+}
+
+img {
+  width: 140px;
+  height: 220px;
 }
